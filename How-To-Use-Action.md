@@ -72,8 +72,7 @@
 3. 修改上方配置中的 `PUSH_TYPES` 参数, 以启用推送功能. 使用 `telegram` 和 `smtp` 渠道在 Action 中可能获得更好体验.
    > 由于配置复杂或渠道 IP 限制等原因, 部分渠道不支持在 Github Action 中使用,
    详见项目首页的[推送渠道](https://github.com/ImYrS/aliyun-auto-signin/blob/main/README.md#%E6%8E%A8%E9%80%81%E6%B8%A0%E9%81%93)
-4. 获取REFRESH_TOKENS
-只复制""引号内的值，不要KEY，也不要引号。
+4. 获取REFRESH_TOKENS 只复制refresh_tokens:后面的值，不要KEY，也不要引号。
 ![Alt](img/640.png)
 
 
