@@ -74,6 +74,8 @@
    详见项目首页的[推送渠道](https://github.com/ImYrS/aliyun-auto-signin/blob/main/README.md#%E6%8E%A8%E9%80%81%E6%B8%A0%E9%81%93)
 4. 获取REFRESH_TOKENS
 ![Alt](img/640.png)
+只复制""引号内的值，不要KEY，也不要引号。
+
 ## 配置 GitHub Secrets
 
 在仓库的 `Settings` -> `Secrets and Variables` -> `Actions` 中点击 `New repository secret` 按照推送需要添加 Secrets.  
